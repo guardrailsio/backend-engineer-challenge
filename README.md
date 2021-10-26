@@ -2,7 +2,7 @@
 
 > This repository contains the coding challenge for backend engineers.
 
-**Note:** Please don't fork this repository, or create a pull request against it. Otherwise other candidates may take inspiration from it. Once the coding challenge is completed, you can submit it via this [Google form](https://forms.gle/i5nZWZKoUnTWj3td9).
+**Note:** Please don't fork this repository, create a pull request against it, or use GuardRails in the repo name. Otherwise other candidates may take inspiration from it. Once the coding challenge is completed, you can submit it via this [Google form](https://forms.gle/i5nZWZKoUnTWj3td9).
 
 ## Description
 
@@ -35,7 +35,7 @@ Wherever you’d have to add something that requires product subscriptions or si
 
 **Bonus points for:**
 
-- SQL schema: Using a relational database that has a proper schema
+- SQL schema: Using a relational database that has a proper schema and indexes
 - API documentation: Using e.g OpenApi specs
 - Containerized app
 
